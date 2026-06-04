@@ -1,0 +1,119 @@
+Cloud Security Engineer – Required Syllabus
+
+🔹 Phase 0: Cloud Fundamentals
+
+Cloud Computing Basics
+Regions & Availability Zones
+IaaS / PaaS / SaaS
+Public vs Private vs Hybrid Cloud
+Shared Responsibility Model
+AWS Console Navigation
+High Availability Architecture Basics
+
+🔹 Phase 1: Linux Fundamentals
+
+Linux File System
+SSH Access
+File Permissions (chmod)
+Process Management
+Package Installation
+System Logs (/var/log)
+Basic Troubleshooting
+
+🔹 Phase 1: Networking Fundamentals
+
+TCP/IP Basics
+DNS
+HTTP / HTTPS
+Ports (22, 80, 443)
+OSI Model
+Subnetting (CIDR)
+Routing Concepts
+
+🔹 Phase 2: AWS Networking
+
+VPC Setup
+Public vs Private Subnets
+Internet Gateway (IGW)
+NAT Gateway
+Route Tables
+Network Traffic Flow
+
+🔹 Phase 2: AWS Compute & Storage
+
+EC2 Instances
+EBS Volumes
+S3 Storage
+S3 Bucket Policies
+Instance Metadata
+
+🔹 Phase 2: AWS Network Security
+
+Security Groups
+Network ACLs (NACL)
+Load Balancer (ALB)
+TLS / HTTPS Basics
+
+🔹 Phase 2: Monitoring & Logging
+
+AWS CloudWatch
+AWS CloudTrail
+Log Monitoring
+Metrics & Alerts
+
+🔹 Phase 3: Identity & Access Management
+
+IAM Users
+IAM Roles
+IAM Policies
+Least Privilege Principle
+MFA Setup
+Service Accounts
+
+🔹 Phase 3: Data Protection
+
+AWS KMS (Encryption Keys)
+Encryption at Rest & In Transit
+AWS Secrets Manager
+
+🔹 Phase 4: Automation & IaC
+
+Python Basics for Automation
+Terraform Basics
+Infrastructure Provisioning via Terraform
+IAM Policy Automation
+
+🔹 Phase 5: Core Cloud Security
+
+Threat Modeling Basics
+AWS GuardDuty
+AWS Security Hub
+AWS Config
+AWS Inspector
+AWS WAF
+AWS Shield
+Patch Management
+
+🔹 Phase 6: Containers & API Security
+
+Docker Basics
+Kubernetes / EKS Basics
+Pod-level IAM
+Network Policies
+API Gateway Basics
+TLS Security
+
+🔹 Phase 7: Incident Response & Investigation
+
+VPC Flow Logs
+CloudTrail Log Analysis
+Snapshot-based Forensics
+IAM Misconfiguration Scenarios
+Security Incident Response Playbook
+
+🔹 Phase 8: DevSecOps (Optional Advanced)
+
+CI/CD Security Basics
+Secret Scanning
+Policy-as-Code (OPA)
+Terraform Security Scanning
